@@ -19,6 +19,29 @@ This repository contains the open-source schematic and PCB design files for an S
 - Altium Designer (or a compatible viewer)
 - Bill of Materials (BOM) generation capabilities (optional)
 
+## Screenshots :eyes:
+
+<table>
+  <tr>
+    <th>
+        <a href="images/Top3D.png" target="_blank">
+        <img src='images/Top3D.png' width='200px' alt='image missing' /> </a>
+    </th>
+    <th>
+        <a href="images/Bottom3D.png" target="_blank">
+        <img src='images/Bottom3D.png' width='200px' alt='image missing' /> </a>
+    </th>
+    <th>
+        <a href="images/Top3D.png" target="_blank">
+        <img src='images/Top3D.png' width='200px' alt='image missing' /> </a>
+    </th>
+    <th>
+        <a href="images/Top3D.png" target="_blank">
+        <img src='images/Top3D.png' width='200px' alt='image missing' /> </a>
+    </th>
+  </tr>
+</table>
+
 ## Getting Started
 
 1. **Download the repository**: Click "Clone or download" on the green button above.
