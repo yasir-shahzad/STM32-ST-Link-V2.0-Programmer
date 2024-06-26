@@ -1,7 +1,6 @@
 # STM32 ST-Link V2.0 Clone - Altium Designer Files
 
 This repository contains the open-source schematic and PCB design files for an ST-Link V2.0 clone, created using Altium Designer. This clone allows you to program and debug STM8 and STM32 microcontrollers.
-![Schematic Diagram](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/Final_ST-LINK_V2-0.png)
 
 
 ## Schematic Diagram
@@ -32,9 +31,7 @@ This repository contains the open-source schematic and PCB design files for an S
     <th>
         <a href="images/Bottom3D.png" target="_blank">
         <img src='images/Bottom3D.png' width='200px' alt='image missing' /> </a>
-    </th>
-     
-     
+    </th>  
     <th>
         <a href="images/Top_Layout.png" target="_blank">
         <img src='images/Top_Layout.png' width='200px' alt='image missing' /> </a>
