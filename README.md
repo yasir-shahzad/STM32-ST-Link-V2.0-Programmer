@@ -27,21 +27,21 @@ This repository contains the open-source schematic and PCB design files for an S
   <tr>
     <th>
         <a href="images/Top3D.png" target="_blank">
-        <img src='images/Top3D.png' width='400px' alt='image missing' /> </a>
+        <img src='images/Top3D.png' width='200px' alt='image missing' /> </a>
     </th>
     <th>
         <a href="images/Bottom3D.png" target="_blank">
-        <img src='images/Bottom3D.png' width='400px' alt='image missing' /> </a>
+        <img src='images/Bottom3D.png' width='200px' alt='image missing' /> </a>
     </th>
-     </tr>
-     <tr>
+     
+     
     <th>
         <a href="images/Top_Layout.png" target="_blank">
-        <img src='images/Top_Layout.png' width='400px' alt='image missing' /> </a>
+        <img src='images/Top_Layout.png' width='200px' alt='image missing' /> </a>
     </th>
     <th>
         <a href="images/Bottom_Layout.png" target="_blank">
-        <img src='images/Bottom_Layout.png' width='400px' alt='image missing' /> </a>
+        <img src='images/Bottom_Layout.png' width='200px' alt='image missing' /> </a>
     </th>
   </tr>
 </table>
