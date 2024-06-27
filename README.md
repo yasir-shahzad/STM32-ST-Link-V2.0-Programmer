@@ -1,7 +1,25 @@
 # STM32 ST-Link V2.0 Clone - Altium Designer Files
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/latest)](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/commits/master)
+[![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/STM32-ST-Link-V2.0-Programmer.svg)](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/issues)
+![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_STM32-ST-Link-V2.0-Programmer)
+
+If you like **STM32-ST-Link-V2.0** - give it a star, or fork it and contribute!
+[![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/STM32-ST-Link-V2.0-Programmer.svg?style=social&label=Star)](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/STM32-ST-Link-V2.0-Programmer.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/network)
 
 This repository contains the open-source schematic and PCB design files for an ST-Link V2.0 clone, created using Altium Designer. This clone allows you to program and debug STM8 and STM32 microcontrollers.
 
+
+## Need Help with Embedded Systems or Hardware Design?
+I offer professional services for embedded systems design and hardware development at competitive rates starting at **$10/hour**. If you're looking for assistance with your next project, feel free to contact me:
+
+- **Facebook**: [Facebook Profile](https://www.facebook.com/yasirshahzad918/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yasirshahzad18/)
+- **Instagram**: [Instagram Profile](https://www.instagram.com/mastermind.pk/)
+- **Twitter**: [Twitter Profile](https://twitter.com/yourprofile)
+- **Fiverr**: [Fiverr Profile](https://www.fiverr.com/yourprofile)
+- **Upwork**: [Upwork Profile](https://www.upwork.com/yourprofile)
 
 ## Schematic Diagram
 ![Schematic Diagram](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/Schematic.png)
@@ -10,16 +28,26 @@ This repository contains the open-source schematic and PCB design files for an S
 ![PCB Board](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/PCB.png)
 
 ## Features
-
-- Compatible with various STM8 and STM32 devices
-- In-circuit debugging capabilities
-- Based on the official ST-Link V2.0 design
+- 5 V power supplied by a USB connector
+- USB 2.0 full speed compatible interface
+- USB standard A to mini B cable
+- SWIM specific features
+- 1.65 V to 5.5 V application voltage supported on SWIM interface
+- SWIM low-speed and high-speed modes supported
+- SWIM programming speed rate: 9.7 Kbytes/s in low speed and 12.8 Kbytes/s in high speed
+- SWIM cable for connection to the application via an ERNI standard vertical (ref: 284697 or 214017) or horizontal (ref: 214012) connector
+- SWIM cable for connection to the application via a pin header or a 2.54 mm pitch connector
+- JTAG specific features
+- 1.65 V to 3.6 V application voltage supported on the JTAG interface and 5 V tolerant inputs
+- JTAG cable for connection to a standard JTAG 20-pin pitch 2.54 mm connector
+- Direct firmware update feature supported (DFU)
+- Status LED which blinks during communication with the PC
+- Operating temperature 0 to 50 °C
 
 ## Requirements
 
 - Altium Designer (or a compatible viewer)
-- Bill of Materials (BOM) generation capabilities (optional)
-
+  
 ## Screenshots :eyes:
 
 <table>
@@ -53,7 +81,7 @@ This repository contains the open-source schematic and PCB design files for an S
 
 ## Additional Information
 
-- **Firmware**: This repository does not include the firmware. You'll need to obtain the official ST-Link V2.0 firmware from [link to official STMicroelectronics website] (replace with actual link).
+- **Firmware**: This repository does not include the firmware. You'll need to obtain the official ST-Link V2.0 firmware from [link](https://github.com/GMMan/st-link-hack/blob/master/upgrade/upgrade.md)
 - **Assembly instructions (optional)**: Consider adding a separate document or webpage with detailed instructions on soldering and assembling the PCB (if applicable).
 - **License**: Specify the open-source license used for the design files (e.g., MIT License).
 
@@ -61,6 +89,3 @@ This repository contains the open-source schematic and PCB design files for an S
 
 We encourage contributions to this project! Feel free to submit pull requests with improvements, bug fixes, or additional features.
 
-## Disclaimer
-
-This design is provided for educational purposes only. It is not guaranteed to be error-free, and you use it at your own risk.
