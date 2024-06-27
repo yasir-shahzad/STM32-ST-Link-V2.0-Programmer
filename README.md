@@ -71,7 +71,7 @@ This repository contains the open-source schematic and PCB design files for an S
 
 ## Additional Information
 
-- **Firmware**: This repository does not include the firmware. You'll need to obtain the official ST-Link V2.0 firmware from [link to official STMicroelectronics website](https://github.com/GMMan/st-link-hack/blob/master/upgrade/upgrade.md)
+- **Firmware**: This repository does not include the firmware. You'll need to obtain the official ST-Link V2.0 firmware from [link](https://github.com/GMMan/st-link-hack/blob/master/upgrade/upgrade.md)
 - **Assembly instructions (optional)**: Consider adding a separate document or webpage with detailed instructions on soldering and assembling the PCB (if applicable).
 - **License**: Specify the open-source license used for the design files (e.g., MIT License).
 
