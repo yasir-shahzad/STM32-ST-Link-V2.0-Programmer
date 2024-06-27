@@ -14,12 +14,12 @@ This repository contains the open-source schematic and PCB design files for an S
 ## Need Help with Embedded Systems or Hardware Design?
 I offer professional services for embedded systems design and hardware development!  If you're looking for someone to help you with your next project, feel free to contact me:
 
-**Facebook:** [Your Facebook Profile Link]
-**Instagram:** [Your Instagram Profile Link]
-**Twitter:** [Your Twitter Profile Link]
-**Fiverr:** [Your Fiverr Profile Link]
-**Upwork:** [Your Upwork Profile Link]
-
+- **Facebook**: [Facebook Profile](https://www.facebook.com/yasirshahzad918/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yasirshahzad18/)
+- **Instagram**: [Instagram Profile](https://www.instagram.com/yourprofile)
+- **Twitter**: [Twitter Profile](https://twitter.com/yourprofile)
+- **Fiverr**: [Fiverr Profile](https://www.fiverr.com/yourprofile)
+- **Upwork**: [Upwork Profile](https://www.upwork.com/yourprofile)
 
 ## Schematic Diagram
 ![Schematic Diagram](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/Schematic.png)
