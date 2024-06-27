@@ -15,13 +15,9 @@ This repository contains the open-source schematic and PCB design files for an S
 I offer professional services for embedded systems design and hardware development!  If you're looking for someone to help you with your next project, feel free to contact me:
 
 **Facebook:** [Your Facebook Profile Link]
-
 **Instagram:** [Your Instagram Profile Link]
-
 **Twitter:** [Your Twitter Profile Link]
-
 **Fiverr:** [Your Fiverr Profile Link]
-
 **Upwork:** [Your Upwork Profile Link]
 
 
@@ -32,7 +28,7 @@ I offer professional services for embedded systems design and hardware developme
 ![PCB Board](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/PCB.png)
 
 ## Features
-* 5 V power supplied by a USB connector
+- 5 V power supplied by a USB connector
 - USB 2.0 full speed compatible interface
 - USB standard A to mini B cable
 - SWIM specific features
