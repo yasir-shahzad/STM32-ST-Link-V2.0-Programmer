@@ -12,7 +12,7 @@ This repository contains the open-source schematic and PCB design files for an S
 
 
 ## Need Help with Embedded Systems or Hardware Design?
-I offer professional services for embedded systems design and hardware development!  If you're looking for someone to help you with your next project, feel free to contact me:
+I offer professional services for embedded systems design and hardware development at competitive rates starting at $10/hour, which is lower than other market prices! If you're looking for assistance with your next project, feel free to contact me:
 
 - **Facebook**: [Facebook Profile](https://www.facebook.com/yasirshahzad918/)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yasirshahzad18/)
