@@ -14,12 +14,15 @@ This repository contains the open-source schematic and PCB design files for an S
 ## Need Help with Embedded Systems or Hardware Design?
 I offer professional services for embedded systems design and hardware development at competitive rates starting at **$10/hour**. If you're looking for assistance with your next project, feel free to contact me:
 
-- **Facebook**: [Facebook Profile](https://www.facebook.com/yasirshahzad918/)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yasirshahzad18/)
-- **Instagram**: [Instagram Profile](https://www.instagram.com/mastermind.pk/)
-- **Twitter**: [Twitter Profile](https://twitter.com/yourprofile)
-- **Fiverr**: [Fiverr Profile](https://www.fiverr.com/yourprofile)
-- **Upwork**: [Upwork Profile](https://www.upwork.com/yourprofile)
+<p align="left">
+<a href="https://www.facebook.com/yasirshahzad918/" target="blank"><img align="center" src="path/to/facebook-icon.svg" alt="Facebook Profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yasirshahzad18/" target="blank"><img align="center" src="path/to/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mastermind.pk/" target="blank"><img align="center" src="path/to/instagram-icon.svg" alt="Instagram Profile" height="30" width="40" /></a>
+<a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="path/to/twitter-icon.svg" alt="Twitter Profile" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/yourprofile" target="blank"><img align="center" src="path/to/fiverr-icon.svg" alt="Fiverr Profile" height="30" width="40" /></a>
+<a href="https://www.upwork.com/yourprofile" target="blank"><img align="center" src="path/to/upwork-icon.svg" alt="Upwork Profile" height="30" width="40" /></a>
+</p>
+
 
 ## Schematic Diagram
 ![Schematic Diagram](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/Schematic.png)
