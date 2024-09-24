@@ -137,7 +137,7 @@ The PCB layout represents the physical arrangement of components on the printed 
 - 💡 **Status LED** blinks during PC communication  
 - 🌡️ Operating temperature: 0°C to 50°C  
 
-## 📋 Requirements  
+## Requirements 📋
 - 🖥️ **Altium Designer** (or a compatible viewer)  
 
 ## Images 📸
