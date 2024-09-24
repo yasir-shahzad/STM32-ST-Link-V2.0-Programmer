@@ -5,7 +5,7 @@
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_STM32-ST-Link-V2.0-Programmer)
 
 If you like **STM32-ST-Link-V2.0** - give it a star, or fork it and contribute!  
-[![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/STM32-ST-Link-V2.0-Programmer.svg?style=social&label=Star)](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/STM32-ST-Link-V2.0-Programmer.svg?style=social&label=Star)](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/stargazers)  
 [![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/STM32-ST-Link-V2.0-Programmer.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/network)
 
 This repository contains the open-source schematic and PCB design files for an **ST-Link V2.0 clone**, created using Altium Designer. This clone allows you to program and debug STM8 and STM32 microcontrollers.
@@ -138,28 +138,29 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 ## 📋 Requirements  
 - 🖥️ **Altium Designer** (or a compatible viewer)  
 
-## 📸 Screenshots 👀  
+## Images 📸
+
 <table>
   <tr>
     <th>
         <a href="images/Top3D.png" target="_blank">
-        <img src='images/Top3D.png' width='200px' alt='Top 3D View' />
-        </a>
+        <img src='images/Top3D.png' width='200px' alt='Top 3D View' /> </a>  
+        <p>🔼 Top 3D View</p>
     </th>
     <th>
         <a href="images/Bottom3D.png" target="_blank">
-        <img src='images/Bottom3D.png' width='200px' alt='Bottom 3D View' />
-        </a>
-    </th>  
+        <img src='images/Bottom3D.png' width='200px' alt='Bottom 3D View' /> </a>
+        <p>🔽 Bottom 3D View</p>
+    </th>
     <th>
         <a href="images/Top_Layout.png" target="_blank">
-        <img src='images/Top_Layout.png' width='200px' alt='Top Layout' />
-        </a>
+        <img src='images/Top_Layout.png' width='200px' alt='Top Layout' /> </a>
+        <p>🔼 Top Layout</p>
     </th>
     <th>
         <a href="images/Bottom_Layout.png" target="_blank">
-        <img src='images/Bottom_Layout.png' width='200px' alt='Bottom Layout' />
-        </a>
+        <img src='images/Bottom_Layout.png' width='200px' alt='Bottom Layout' /> </a>
+        <p>🔽 Bottom Layout</p>
     </th>
   </tr>
 </table>
@@ -167,8 +168,8 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 ## 🚀 Getting Started  
 1. **Download the repository**: Click the "Clone or download" button above.  
 2. **Open the project**: Use Altium Designer to open the `.PrjPCB` file in the main directory.  
-3. **Review the schematics**: Open the `schematic.SchDoc` file to check the electrical connections and components used.  
-4. **Examine the PCB layout**: Open the `PCB.PCBDoc` to view the physical layout of the components on the PCB.  
+3. **Schematics**: Open the `schematic.SchDoc` file to check the electrical connections and components used.  
+4. **PCB layout**: Open the `PCB.PCBDoc` to view the physical layout of the components on the PCB.  
 5. **Generate BOM (optional)**: Use Altium Designer's features to generate a Bill of Materials (BOM).  
 
 ## 📄 Additional Information  
@@ -177,4 +178,10 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 - **License**: Specify the open-source license (e.g., MIT License).  
 
 ## 🤝 Contributing  
-Contributions are welcome! Feel free to submit pull requests with improvements, bug fixes, or new features.
+Contributions are welcome! Feel free to submit **pull requests** with improvements, bug fixes, or new features.
+
+## Thanks to all contributors ❤️
+
+ <a href="https://github.com/yasir-shahzad/Digispark-ATTINY85/graphs/contributors">
+   <img src="https://contrib.rocks/image?repo=yasir-shahzad/Digispark-ATTINY85" />
+ </a>
