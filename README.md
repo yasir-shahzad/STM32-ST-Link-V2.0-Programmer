@@ -1,4 +1,4 @@
-# STM32 ST-Link V2.0 Clone - Altium Designer Files
+# 🔗 STM32 ST-Link V2.0 Clone - Altium Designer Files 🖥️
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/latest)](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/commits/master)
 [![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/STM32-ST-Link-V2.0-Programmer.svg)](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/issues)
@@ -112,15 +112,15 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 ###
 
 
-## 📉 Schematic Diagram
+## Schematic Diagram 📉
 The complete schematic diagram shows the electrical connections and components used in the design.  
 ![Schematic Diagram](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/Schematic.png)
 
-## 🖼️ PCB Layout
-The PCB layout represents the physical arrangement of components on the printed circuit board, detailing how they are positioned and connected.
+## PCB Layout 🖼️
+The PCB layout represents the physical arrangement of components on the printed circuit board, detailing how they are positioned and connected.  
 ![PCB Board](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/PCB.png)
 
-## 🚀 Features  
+## Features 🚀
 - 🔋 **5V power** supplied via USB connector  
 - 💻 **USB 2.0 full-speed** compatible interface  
 - 🔌 USB Standard A to Mini-B cable  
@@ -167,19 +167,19 @@ The PCB layout represents the physical arrangement of components on the printed 
   </tr>
 </table>
 
-## 🚀 Getting Started  
+## Getting Started 🚀
 1. **Download the repository**: Click the "Clone or download" button above.  
 2. **Open the project**: Use Altium Designer to open the `.PrjPCB` file in the main directory.  
 3. **Schematics**: Open the `schematic.SchDoc` file to check the electrical connections and components used.  
 4. **PCB layout**: Open the `PCB.PCBDoc` to view the physical layout of the components on the PCB.  
 5. **Generate BOM (optional)**: Use Altium Designer's features to generate a Bill of Materials (BOM).  
 
-## 📄 Additional Information  
+## Additional Information 📄 
 - **Firmware**: This repository doesn’t include firmware. Get the official ST-Link V2.0 firmware [here](https://github.com/GMMan/st-link-hack/blob/master/upgrade/upgrade.md).  
 - **Assembly instructions**: Consider adding detailed instructions for soldering and assembling the PCB (optional).  
 - **License**: Specify the open-source license (e.g., MIT License).  
 
-## 🤝 Contributing  
+## Contributing 🤝
 Contributions are welcome! Feel free to submit **pull requests** with improvements, bug fixes, or new features.
 
 ## Thanks to all contributors ❤️
