@@ -27,68 +27,66 @@ I offer professional services for embedded systems design and hardware developme
 ## Schematic Diagram
 ![Schematic Diagram](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/Schematic.png)
 
-## PCB Files
+## PCB Layout
 ![PCB Board](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/PCB.png)
 
-## Features
-- 5 V power supplied by a USB connector
-- USB 2.0 full speed compatible interface
-- USB standard A to mini B cable
-- SWIM specific features
-- 1.65 V to 5.5 V application voltage supported on SWIM interface
-- SWIM low-speed and high-speed modes supported
-- SWIM programming speed rate: 9.7 Kbytes/s in low speed and 12.8 Kbytes/s in high speed
-- SWIM cable for connection to the application via an ERNI standard vertical (ref: 284697 or 214017) or horizontal (ref: 214012) connector
-- SWIM cable for connection to the application via a pin header or a 2.54 mm pitch connector
-- JTAG specific features
-- 1.65 V to 3.6 V application voltage supported on the JTAG interface and 5 V tolerant inputs
-- JTAG cable for connection to a standard JTAG 20-pin pitch 2.54 mm connector
-- Direct firmware update feature supported (DFU)
-- Status LED which blinks during communication with the PC
-- Operating temperature 0 to 50 °C
+## 🚀 Features  
+- 🔋 **5V power** supplied via USB connector  
+- 💻 **USB 2.0 full-speed** compatible interface  
+- 🔌 USB Standard A to Mini-B cable  
+- 🌐 **SWIM-specific features**:  
+  - 1.65V to 5.5V application voltage supported on the SWIM interface  
+  - Supports both low-speed and high-speed modes  
+  - SWIM programming speed: 9.7 Kbytes/s (low speed), 12.8 Kbytes/s (high speed)  
+  - Connection via ERNI standard vertical (ref: 284697/214017) or horizontal (ref: 214012) connector  
+  - Pin header or 2.54 mm pitch connector for application connection  
+- 🛠️ **JTAG-specific features**:  
+  - 1.65V to 3.6V application voltage supported, with 5V-tolerant inputs  
+  - Standard 20-pin JTAG connection (2.54 mm pitch)  
+- 🔄 **Direct firmware update** (DFU) feature supported  
+- 💡 **Status LED** blinks during PC communication  
+- 🌡️ Operating temperature: 0°C to 50°C  
 
-## Requirements
+## 📋 Requirements  
+- 🖥️ **Altium Designer** (or a compatible viewer)  
 
-- Altium Designer (or a compatible viewer)
-  
-## Screenshots :eyes:
-
+## 📸 Screenshots 👀  
 <table>
   <tr>
     <th>
         <a href="images/Top3D.png" target="_blank">
-        <img src='images/Top3D.png' width='200px' alt='image missing' /> </a>
+        <img src='images/Top3D.png' width='200px' alt='Top 3D View' />
+        </a>
     </th>
     <th>
         <a href="images/Bottom3D.png" target="_blank">
-        <img src='images/Bottom3D.png' width='200px' alt='image missing' /> </a>
+        <img src='images/Bottom3D.png' width='200px' alt='Bottom 3D View' />
+        </a>
     </th>  
     <th>
         <a href="images/Top_Layout.png" target="_blank">
-        <img src='images/Top_Layout.png' width='200px' alt='image missing' /> </a>
+        <img src='images/Top_Layout.png' width='200px' alt='Top Layout' />
+        </a>
     </th>
     <th>
         <a href="images/Bottom_Layout.png" target="_blank">
-        <img src='images/Bottom_Layout.png' width='200px' alt='image missing' /> </a>
+        <img src='images/Bottom_Layout.png' width='200px' alt='Bottom Layout' />
+        </a>
     </th>
   </tr>
 </table>
 
-## Getting Started
+## 🚀 Getting Started  
+1. **Download the repository**: Click the "Clone or download" button above.  
+2. **Open the project**: Use Altium Designer to open the `.PrjPCB` file in the main directory.  
+3. **Review the schematics**: Open the `schematic.SchDoc` file to check the electrical connections and components used.  
+4. **Examine the PCB layout**: Open the `PCB.PCBDoc` to view the physical layout of the components on the PCB.  
+5. **Generate BOM (optional)**: Use Altium Designer's features to generate a Bill of Materials (BOM).  
 
-1. **Download the repository**: Click "Clone or download" on the green button above.
-2. **Open the project**: Use Altium Designer to open the `.PrjPCB` file located in the main directory.
-3. **Review the schematics**: The `schematic.SchDoc` file shows the electrical connections and components used in the design.
-4. **Examine the PCB layout**: The `PCB.PCBDoc` file represents the physical layout of the components on the printed circuit board.
-5. **Generate BOM (optional)**: Use Altium Designer's BOM generation features to create a list of required components.
+## 📄 Additional Information  
+- **Firmware**: This repository doesn’t include firmware. Get the official ST-Link V2.0 firmware [here](https://github.com/GMMan/st-link-hack/blob/master/upgrade/upgrade.md).  
+- **Assembly instructions**: Consider adding detailed instructions for soldering and assembling the PCB (optional).  
+- **License**: Specify the open-source license (e.g., MIT License).  
 
-## Additional Information
-
-- **Firmware**: This repository does not include the firmware. You'll need to obtain the official ST-Link V2.0 firmware from [link](https://github.com/GMMan/st-link-hack/blob/master/upgrade/upgrade.md)
-- **Assembly instructions (optional)**: Consider adding a separate document or webpage with detailed instructions on soldering and assembling the PCB (if applicable).
-- **License**: Specify the open-source license used for the design files (e.g., MIT License).
-
-## Contributing
-
-We encourage contributions to this project! Feel free to submit pull requests with improvements, bug fixes, or additional features.
-
+## 🤝 Contributing  
+Contributions are welcome! Feel free to submit pull requests with improvements, bug fixes, or new features.
