@@ -118,7 +118,7 @@ The complete schematic diagram shows the electrical connections and components u
 
 ## PCB Layout 🖼️
 The PCB layout represents the physical arrangement of components on the printed circuit board, detailing how they are positioned and connected.  
-<img src="https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/PCB.png" alt="PCB Board" width="1024" height="500" />
+<img src="https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/PCB.png" alt="PCB Board" width="1024" height="460" />
 
 
 ## Features 🚀
