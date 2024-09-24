@@ -114,11 +114,11 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 
 ## Schematic Diagram 📉
 The complete schematic diagram shows the electrical connections and components used in the design.  
-<img src="https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/Schematic.png" alt="Schematic Diagram" width="840" height="580" />
+![Schematic Diagram](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/Schematic.png)
 
 ## PCB Layout 🖼️
 The PCB layout represents the physical arrangement of components on the printed circuit board, detailing how they are positioned and connected.  
-<img src="https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/PCB.png" alt="PCB Board" width="840" height="400" />
+![PCB Board](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/PCB.png)
 
 
 ## Features 🚀
