@@ -11,7 +11,7 @@ If you like **STM32-ST-Link-V2.0** - give it a star, or fork it and contribute!
 This repository contains the open-source schematic and PCB design files for an **ST-Link V2.0 clone**, created using Altium Designer. This clone allows you to program and debug STM8 and STM32 microcontrollers.
 
 
-**Support My Work and Future Projects**:  
+**Support My Work and Future Projects**:🚀✨  
 If you'd like to contribute and help bring more exciting projects to life, consider sponsoring my work. Every bit of support is greatly appreciated and helps me continue creating valuable tools and solutions.
 
 <p align='left'>
@@ -20,7 +20,7 @@ If you'd like to contribute and help bring more exciting projects to life, consi
   </a>
 </p>
 
-🟠 **As a freelancer, you can also find me on**:🚀✨  
+🟠 **As a freelancer, you can also find me on**:  
 
 [![Fiverr Logo](https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge)](https://www.fiverr.com/yasirshahzad786) 
 [![Upwork Logo](https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge)](https://www.upwork.com/freelancers/~01bf038fa9b5bfbbc2)
